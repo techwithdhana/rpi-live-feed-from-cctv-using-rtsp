@@ -1,4 +1,4 @@
-# import depententies
+# import libraries
 import cv2
 import cvui
 
